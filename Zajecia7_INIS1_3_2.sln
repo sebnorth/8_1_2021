@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadani
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{D3CDF873-E4D3-4AF0-833B-6D26BC8FCACA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrzegladarkaObrazow", "PrzegladarkaObrazow\PrzegladarkaObrazow.csproj", "{EC669040-E17E-4540-A953-5302B7DBEF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D3CDF873-E4D3-4AF0-833B-6D26BC8FCACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3CDF873-E4D3-4AF0-833B-6D26BC8FCACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3CDF873-E4D3-4AF0-833B-6D26BC8FCACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC669040-E17E-4540-A953-5302B7DBEF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC669040-E17E-4540-A953-5302B7DBEF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC669040-E17E-4540-A953-5302B7DBEF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC669040-E17E-4540-A953-5302B7DBEF33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
